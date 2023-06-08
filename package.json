@@ -1,6 +1,11 @@
 {
+<<<<<<< Updated upstream
   "name": "neptunecss",
   "version": "1.0.1",
+=======
+  "name": "@neptune-css/neptune",
+  "version": "0.8.3",
+>>>>>>> Stashed changes
   "description": "A lightweight CSS framework.",
   "main": "./neptune.css",
   "style": "./neptune.css",
